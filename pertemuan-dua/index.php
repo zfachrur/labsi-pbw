@@ -11,25 +11,25 @@
    <body class="container">
       <div class="d-flex col-md-12 justify-content-center align-items-center">
          <ul class="list-group w-50">
-            <h1>Menu</h1>
+            <h1>Menu Minuman</h1>
             <li class="list-group-item">1. Es Teh</li>
-            <li class="list-group-item">2. Jus Alpukat</li>
+            <li class="list-group-item">2. Es Milo</li>
             <li class="list-group-item">3. Es Kopi</li>
             <li class="list-group-item">4. Jus Strawberry</li>
             <li class="list-group-item">5. Jus Mangga</li>
          </ul>
          <div class="d-flex justify-content-center align-items-center container vh-100 vw-100 border-2">
-            <form action="./passing.php" method="POST">
+            <form action="./passing.php" method="GET">
                <div class="row g-3 align-items-center">
                   <div class="col-auto">
-                     <label for="inputMenu" class="col-form-label">Pilih Menu 1-5</label>
+                     <label for="input_menu" class="col-form-label">Pilih Menu 1-5</label>
                   </div>
                   <div class="col-auto">
-                     <input type="number" name="inputMenu" id="inputMenu" 
-                        class="form-control" aria-describedby="passwordHelpInline" required minlength="5" maxlength="20">
+                     <input type="number" name="input_menu" id="input_menu" 
+                        class="form-control" required>
                   </div>
                   <div class="col-auto">
-                     <span id="usernameHelpInline" class="form-text">
+                     <span class="form-text">
                      Pilih menu yang tersedia.
                      </span>
                   </div>
