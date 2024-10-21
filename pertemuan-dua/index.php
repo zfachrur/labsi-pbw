@@ -15,8 +15,6 @@
             <li class="list-group-item">1. Es Teh</li>
             <li class="list-group-item">2. Jus Alpukat</li>
             <li class="list-group-item">3. Es Kopi</li>
-            <li class="list-group-item">4. Jus Strawberry</li>
-            <li class="list-group-item">5. Jus Mangga</li>
          </ul>
          <div class="d-flex justify-content-center align-items-center container vh-100 vw-100 border-2">
             <form action="./passing.php" method="GET">
