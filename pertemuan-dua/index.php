@@ -20,7 +20,7 @@
             <form action="./passing.php" method="GET">
                <div class="row g-3 align-items-center">
                   <div class="col-auto">
-                     <label for="input_menu" class="col-form-label">Pilih Menu 1-5</label>
+                     <label for="input_menu" class="col-form-label">Pilih Menu 1-3</label>
                   </div>
                   <div class="col-auto">
                      <input type="number" name="input_menu" id="input_menu" 
