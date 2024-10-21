@@ -19,11 +19,11 @@
         <div class="card w-50">
             <div class="card-body">
 				<!-- Untuk Menampilkan Nama Minuman -->
-                <h5 class="card-title font-bold">Anda Memesan <?php // ?></h5>
+                <h5 class="card-title font-bold">Anda Memesan <?php echo $menuMinuman ?></h5>
 				<!-- ------------------------------ -->
 				
 				<!-- Untuk Menampilkan Harga Minuman -->
-                <p class="card-text">Harga Minuman <?= // ?></p>
+                <p class="card-text">Harga Minuman <?php echo $hargaMinuman ?></p>
 				<!-- ------------------------------- -->
 				
 				<!-- Tombol Untuk Kembali Ke Menu -->
