@@ -43,7 +43,6 @@ include("list_menu.php");
                     <!-- ---------------------------- -->
 
                     <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-                         <button type="button" class="btn btn-danger">Kembali</button>
                          <button type="button" class="btn btn-success">Beli Makanan</button>
                     </div>
                </div>
