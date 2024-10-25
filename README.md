@@ -1,6 +1,6 @@
 ### **Pemrograman Berbasis Web**
 
-- <a href="https://github.com/zfachrur/labsi-pbw/tree/main/pertemuan-dua" target="_blank" rel="noopener">Pertemuan Dua</a> Web Pilihan Menu Sederhana Nested If
+- <a href="https://github.com/zfachrur/labsi-pbw/tree/main/pertemuan-dua" target="_blank">Pertemuan Dua</a> Web Pilihan Menu Sederhana Nested If
 - <a href="https://github.com/zfachrur/labsi-pbw/tree/main/pertemuan-tiga" target="_blank">Pertemuan Tiga</a> Web Looping List Menu Card Sederhana
 
 ### List File Pertemuan Dua
