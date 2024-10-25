@@ -5,7 +5,7 @@
 ### 
   ### List File Pertemuan Dua
   - **[index.php](https://github.com/zfachrur/labsi-pbw/blob/main/pertemuan-dua/index.php)** File index.php
-  - **[passing.php](https://github.com/zfachrur/labsi-pbw/blob/main/pertemuan-tiga/list_menu.php)** File passing.php
+  - **[passing.php](https://github.com/zfachrur/labsi-pbw/blob/main/pertemuan-dua/passing.php)** File passing.php
 
   ### List File Pertemuan Tiga
   - **[index.php](https://github.com/zfachrur/labsi-pbw/blob/main/pertemuan-tiga/index.php)** File index.php
